@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#landingpage
+
+
 
 echo "============================="
 echo " INSTALL WEB SOSMED"
